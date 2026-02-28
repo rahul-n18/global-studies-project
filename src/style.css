@@ -296,7 +296,7 @@ h1, h2, h3 {
   background: #f8fafc;
   min-height: 400px;
   border-radius: 24px;
-  background-image: url('/petrochemical_bisleri.png');
+  background-image: url('./petrochemical_bisleri.png');
   background-size: cover;
   background-position: center;
   box-shadow: 0 20px 40px rgba(0,0,0,0.05);
