@@ -296,9 +296,10 @@ h1, h2, h3 {
   background: #f8fafc;
   min-height: 400px;
   border-radius: 24px;
-  background-image: url('data:image/svg+xml;utf8,<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg"><circle cx="100" cy="100" r="80" fill="%23e2e8f0"/></svg>');
+  background-image: url('/petrochemical_bisleri.png');
   background-size: cover;
   background-position: center;
+  box-shadow: 0 20px 40px rgba(0,0,0,0.05);
 }
 .petro-list {
   list-style: none;
